@@ -16,16 +16,15 @@ Quartz Composerで作成したスクリーンセーバです。<br>
 
 ## Rimless
 とあるアニメのエンディングテーマ風スクリーンセーバ<br>
-[”風”なのでキャラクターとかは出てきません。](https://www.youtube.com/results?search_query=Rimless+IKU)<br>
 <img src="/img/Rimless.png">
+[”風”なのでキャラクターとかは出てきません。](https://www.youtube.com/results?search_query=Rimless+IKU)<br>
 
 ## Red Pill
 今さら感のあるSF映画風の文字が降ってくるスクリーンセーバ<br>
 <img src="/img/Red_Pill.png">
 
 ## We Still Don't Know the Name of the Flower We Saw That Day
-まだ名前の知らないアニメのエンディングテーマ風スクリーンセーバ。これが一番重たいです。<br>
-[歌はでないので自分で口ずさんでください。](https://www.youtube.com/results?search_query=secret+base+〜君がくれたもの〜%2810+years+after+Ver.%29)<br>
+あの日見たまだ名前の知らないアニメのエンディングテーマ風スクリーンセーバ。これが一番重たいです。<br>
 <img src="/img/the_Flower.png">
 <img src="/img/the_Flower_2.png">
-
+[歌はでないので自分で口ずさんでください。](https://www.youtube.com/results?search_query=secret+base+〜君がくれたもの〜%2810+years+after+Ver.%29)<br>
