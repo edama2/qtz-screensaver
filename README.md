@@ -24,7 +24,8 @@ Quartz Composerで作成したスクリーンセーバです。<br>
 <img src="/img/Red_Pill.png">
 
 ## We Still Don't Know the Name of the Flower We Saw That Day
-あの日見たまだ名前の知らないアニメのエンディングテーマ風スクリーンセーバ。これが一番重たいです。<br>
+あの日見たまだ名前の知らないアニメのエンディングテーマ風スクリーンセーバ。 
+とても動作が重たいです。<br>
 <img src="/img/the_Flower.png"><br>
-<img src="/img/the_Flower_2.png"><br>
+
 [歌はでないので自分で口ずさんでください。](https://www.youtube.com/results?search_query=secret+base+〜君がくれたもの〜%2810+years+after+Ver.%29)<br>
